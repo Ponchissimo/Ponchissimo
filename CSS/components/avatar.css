@@ -1,0 +1,39 @@
+.avatar {
+	width: 200px;
+	height: 180px;
+	border-radius: 5%;
+}
+
+#ow {
+	width: 150px;
+	height: 150px;
+}
+
+#csgo {
+	width: 230px;
+	height: 150px;
+}
+
+#MW {
+	padding: 15px 10px;
+	width: 230px;
+	height: 110px;
+}
+
+#lol {
+	width: 230px;
+	height: 142px;
+}
+
+#dota {
+	padding: 10px 15px;
+	width: 150px;
+	height: 150px;
+}
+
+#ultimate {
+	width: 230px;
+	height: 180px;
+	padding: 0px 300px;
+	flex-grow: 1;
+}

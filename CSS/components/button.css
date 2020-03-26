@@ -1,0 +1,11 @@
+.button {
+	background-color: #F7E601;
+	padding: 12px 25px;
+	border-radius: 6px;
+	color: black; 
+	font-weight: 700;
+	text-decoration: none;
+	font-size: 30px;
+	font-family: 'Press Start 2P', cursive; 
+	text-align: center;
+}
